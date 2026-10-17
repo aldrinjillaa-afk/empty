@@ -1,6 +1,7 @@
 ---
 title: Welcome to root
 hidden: false
+icon: 😀
 ---
 <Callout icon="📘" theme="info">
   **Template:**  Delete this callout and edit this page with your content and links.
@@ -44,5 +45,3 @@ hidden: false
 
   <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
 </Cards>
-
-<br />
